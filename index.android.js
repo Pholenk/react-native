@@ -47,7 +47,7 @@ const styles = StyleSheet.create({
   other: {
     fontSize: 20,
     textAlign: 'center',
-    color: '#fafad2',
+    color: 'pink',
     marginBottom: 5,
   },
   group: {
